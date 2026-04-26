@@ -154,9 +154,8 @@ moi = {
 - **Public Repos :** 11
 - **Stars reçues :** 2
 - **Followers :** 1
-- **Contributions (1 an) :** 156
 - **Langages principaux :** Python 65%, SQL 25%, R 10%
-- **Dernier commit :** 20 Novembre 2024
+
 
 ---
 
@@ -216,6 +215,7 @@ Je suis toujours ouvert pour :
 - 🔍 Discussions sur le Machine Learning
 - 🚀 Opportunités de stage/alternance
 - 📚 Partage de connaissances
+- :globe_with_meridians: Participer à des competitions de CTFs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectons%20!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunelkpogbeme/)
 [![Email](https://img.shields.io/badge/Email-Écris%20moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpogbemebrunel@gmail.com)

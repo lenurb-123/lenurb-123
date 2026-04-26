@@ -16,8 +16,8 @@
 
 <!-- COMPTEUR DE VISITEURS STYLISÉ -->
 <br>
-![Visiteurs](https://komarev.com/ghpvc/?username=lenurb-123&style=for-the-badge&color=00D9FF&label=PROFILE%20VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/lenurb-123?style=for-the-badge&color=7C3AED&label=FOLLOWERS)](https://github.com/YourGitHub?tab=followers)
+![Visiteurs](https://komarev.com/ghpvc/?username=lenurb-123&style=for-the-badge&color=00D9FF&label=Visiteurs)
+[![GitHub followers](https://img.shields.io/github/followers/lenurb-123?style=for-the-badge&color=7C3AED&label=FOLLOWERS)](https://github.com/lenurb-123?tab=followers)
 
 </div>
 

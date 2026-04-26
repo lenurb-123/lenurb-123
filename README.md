@@ -10,7 +10,7 @@
 <!-- BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brunel%20Sévérino%20KPOGBEME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunelkpogbeme/)
 [![Email](https://img.shields.io/badge/Email-Contactez%20moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kpogbemebrunel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-lenurb-123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lenurb-123)
+[![GitHub](https://img.shields.io/badge/GitHub-lenurb--123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lenurb-123)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-marx345-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2199732)
 ![Visiteurs](https://komarev.com/ghpvc/?username=lenurb-123&style=for-the-badge&color=7C3AED&label=Visiteurs)
 

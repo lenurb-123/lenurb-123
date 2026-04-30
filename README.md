@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=200&section=header&text=Brunel%20Sévérino%20KPOGBEME&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=IA%20Student%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Étudiant+en+Intelligence+Artificielle+🎓;Passion+pour+Machine+Learning+🤖;Data+Analytics+%7C+Deep+Learning+%7C+IA;Construire+des+modèles+innovants+🚀;Passion+pour+Cybersécurité)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Étudiant+en+Intelligence+Artificielle;Passion+pour+Machine+Learning;Data+Analytics+%7C+Deep+Learning+%7C+IA;Construire+des+modèles+innovants;Passion+pour+Cybersécurité)](https://git.io/typing-svg)
 
 <br>
 <br>
